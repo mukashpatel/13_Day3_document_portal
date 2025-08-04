@@ -20,7 +20,7 @@ git init
 
 git add .
 
-git commit -m "<write your commit messahe>"
+git commit -m "<write your commit message>"
 
 git push
 
