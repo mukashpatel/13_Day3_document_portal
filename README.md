@@ -1,4 +1,4 @@
-## commands to follow fopr windows cmd
+## commands to follow for windows cmd
 
 mkdir <project_folder_name>
 
