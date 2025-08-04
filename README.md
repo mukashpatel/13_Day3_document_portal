@@ -14,7 +14,7 @@ conda activate <path_of_the_env>
 
 pip install -r requirements.txt
 
-### git commangs
+### git commands
 
 git init
 
